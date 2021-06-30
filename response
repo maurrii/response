@@ -1,0 +1,31 @@
+What is the command for initializing a new git repository?
+
+<!-- your answer here -->
+
+What is the git command for creating a new branch?
+
+<!-- your answer here -->
+
+What is the git command to switch branches?
+
+<!-- your answer here -->
+
+If you wanted to check which files have been changed, what git command would you use?
+
+<!-- your answer here -->
+
+Which git command would prepare a file to be committed?
+
+<!-- your answer here -->
+
+If you have staged files, which command would commit them for you?
+
+<!-- your answer here -->
+
+Which git command would you use to publish commits to a remote repository?
+
+<!-- your answer here -->
+
+If you had completed a feature branch and needed to get those changes into your master branch, which git command would you use?
+
+<!-- your answer here -->
